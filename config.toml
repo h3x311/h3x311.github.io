@@ -15,7 +15,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "ExampleSite"
-description = "Know a little a lot, know a lot a little"
+description = "Know a little a lot, know a lot a little."
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
