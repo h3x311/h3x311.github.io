@@ -19,8 +19,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
-1. del submodule的最后一步
- ```git rm --cached theme位置```
 
 ## 为什么用Hugo
 相比hexo，hugo的功能和ui更现代化。hugo没有npm，安装很方便。
@@ -29,6 +27,9 @@ gatsby也不错。
 ## 建站中的问题
 1. 选theme直接找推荐，不要看list，选更新最近的并且热度高的
 2. 添加disqus写的域名应该是xx.github.io
+3. del submodule的最后一步
+ ```git rm --cached theme位置```
+
 
 ## hexcell
 1. 对称 无限
