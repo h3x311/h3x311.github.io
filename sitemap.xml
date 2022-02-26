@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://h3x311.github.io/posts/hugo/</loc>
-    <lastmod>2022-02-25T20:09:26+08:00</lastmod>
-  </url><url>
     <loc>https://h3x311.github.io/posts/</loc>
-    <lastmod>2022-02-25T20:09:26+08:00</lastmod>
+    <lastmod>2022-02-26T23:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://h3x311.github.io/posts/toolist/</loc>
+    <lastmod>2022-02-26T23:51:01+08:00</lastmod>
   </url><url>
     <loc>https://h3x311.github.io/</loc>
+    <lastmod>2022-02-26T23:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://h3x311.github.io/posts/hugo/</loc>
     <lastmod>2022-02-25T20:09:26+08:00</lastmod>
   </url><url>
     <loc>https://h3x311.github.io/posts/test1/</loc>
