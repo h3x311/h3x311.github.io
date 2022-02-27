@@ -17,7 +17,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
-工具分三类。一类是快捷键，一类是软件，一类是脚本。<br>
+工具分三类。一类是快捷键，一类是软件，一类是脚本。<br />
 编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
 ## Hotkey
 作为一个还算爱键盘的人。<br>
