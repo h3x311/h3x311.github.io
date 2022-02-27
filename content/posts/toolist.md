@@ -17,10 +17,10 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
-工具分三类。一类是快捷键，一类是软件，一类是脚本。
+工具分三类。一类是快捷键，一类是软件，一类是脚本。<br>
 编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
 ## Hotkey
-作为一个还算爱键盘的人。
+作为一个还算爱键盘的人。<br>
 hotkey和cheatsheet是我比较爱折腾的俩东西。
 过去用的比较多的是spacelaucher来启动软件和网页。屏幕管理用的是触发角。
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
