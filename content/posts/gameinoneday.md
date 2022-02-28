@@ -25,9 +25,9 @@ categories:
 > 做之前翻了youtube的"make game in one day""unity",reddit的gamedev，还有游戏引擎选择的讨论。
 > 索性没看太多engine教程。直接拿最热门的unity使用。
 > 解构游戏很简单，对于新手来说，难在使用工具。
-> 重点是找很多simple basic的游戏来remake
-> 而不是你最爱玩的
-> 重点是了解engine的基础使用
+> 重点是找很多simple basic的游戏来remake，
+> 而不是你最爱玩的。
+> 重点是了解engine的基础使用。
 > 不要做tetris，做点平台类的横版过关就很好。
 ![8aMwuCUcTJ2qrZ6](https://s2.loli.net/2022/03/01/8aMwuCUcTJ2qrZ6.png)
 > 最后以刚开始分析的tetris结尾。
