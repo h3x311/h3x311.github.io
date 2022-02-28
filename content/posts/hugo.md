@@ -1,9 +1,7 @@
 ---
 title: "Hugo"
 date: 2022-02-25T20:09:26+08:00
-draft: false
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+author: "sober"
 showToc: true
 TocOpen: false
 draft: false
@@ -18,6 +16,10 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+tags:
+- hugo
+categories:
+- blog
 ---
 
 ## 为什么用Hugo

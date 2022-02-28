@@ -4,9 +4,9 @@ date: 2022-02-26T23:51:01+08:00
 draft: false
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: true
+author: "sober"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -16,6 +16,12 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+tags:
+- hotkey
+- software
+- script
+categories:
+- tool
 ---
 工具分三类。一类是快捷键，一类是软件，一类是脚本。<br />
 编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
@@ -81,6 +87,7 @@ cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份�
 ### cli tool 
 主要两个，文件管理，搜索。
 但搜索需求还没有特别大。
+
 TODO文件内格式转换 1. vim宏 2. 写脚本程序
 还有很多各种类型有意思的cli工具。比如网络相关的。
 希望以后all in cli

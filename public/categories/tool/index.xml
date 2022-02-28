@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tool on ∞</title>
+    <link>https://h3x311.github.io/categories/tool/</link>
+    <description>Recent content in tool on ∞</description>
+    <image>
+      <url>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Feb 2022 23:51:01 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toolist</title>
+      <link>https://h3x311.github.io/posts/toolist/</link>
+      <pubDate>Sat, 26 Feb 2022 23:51:01 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/toolist/</guid>
+      <description>工具分三类。一类是快捷键，一类是软件，一类是脚本。编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
+Hotkey 作为一个还算爱键盘的人。hotkey和cheatsheet是我比较爱折腾的俩东西。 过去用的比较多的是spacelaucher来启动软件和网页。屏幕管理用的是触发角。 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。 每当开始用新editor，最先找的就是cheatsheet。 hotkey主要分布在3个地方：
+ browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO  close this, before, after move this, before, after F   editor(nvim vscode  vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表   terminal(cli  move word 前后 del word   software  obsidian  hotkey未设置 search panel and template 加入   logseq  估计是和vim统一     窗口管理  yabai 和 skhd(skhd config有bug，待解决TODO   系统快捷键和上方冲突  整体统一TODO    Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/ 对软件的要求是：</description>
+    </item>
+    
+    <item>
+      <title>Git多用户</title>
+      <link>https://h3x311.github.io/posts/git/</link>
+      <pubDate>Tue, 22 Feb 2022 14:26:09 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/git/</guid>
+      <description>需求  git用户和repo分离 多ssh key登陆  Q1 git config --local user.name &amp;quot;xxx&amp;quot; git config --local user.email &amp;quot;xxx&amp;quot; 修改当前项目下的git用户前提是添加多用户ssh key到～/.ssh/config
+Q2 1. 生成key ssh-keygen -t rsa -C &amp;quot;user2@email.com&amp;quot; 名字加后缀，不要覆盖之前的key
+2. 添加key到ssh agent中 ssh-agent bash ssh-add ~/.ssh/keyname 3. 修改ssh的config Host github-user2 HostName github.com User git Host 名称随意 当添加remote repo时，Host 替换：
+git remote add origin git@github-user2:repoUrl 而不是
+git remote add origin git@github.com:repoUrl  git clone 如是  总结 这样就可以愉快的使用多账号提交代码了！</description>
+    </item>
+    
+  </channel>
+</rss>
