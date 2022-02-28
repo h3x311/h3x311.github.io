@@ -9,7 +9,16 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Feb 2022 23:51:01 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 12:46:36 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dev</title>
+      <link>https://h3x311.github.io/categories/dev/</link>
+      <pubDate>Mon, 28 Feb 2022 12:46:36 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/categories/dev/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tool</title>
       <link>https://h3x311.github.io/categories/tool/</link>

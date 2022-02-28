@@ -16,8 +16,8 @@
       <pubDate>Tue, 22 Feb 2022 14:26:09 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/git/</guid>
-      <description>需求  git用户和repo分离 多ssh key登陆  Q1 git config --local user.name &amp;quot;xxx&amp;quot; git config --local user.email &amp;quot;xxx&amp;quot; 修改当前项目下的git用户前提是添加多用户ssh key到～/.ssh/config
-Q2 1. 生成key ssh-keygen -t rsa -C &amp;quot;user2@email.com&amp;quot; 名字加后缀，不要覆盖之前的key
+      <description>需求  git用户和repo分离 多ssh key登陆  Q1 git config --local user.name &amp;#34;xxx&amp;#34; git config --local user.email &amp;#34;xxx&amp;#34; 修改当前项目下的git用户前提是添加多用户ssh key到～/.ssh/config
+Q2 1. 生成key ssh-keygen -t rsa -C &amp;#34;user2@email.com&amp;#34; 名字加后缀，不要覆盖之前的key
 2. 添加key到ssh agent中 ssh-agent bash ssh-add ~/.ssh/keyname 3. 修改ssh的config Host github-user2 HostName github.com User git Host 名称随意 当添加remote repo时，Host 替换：
 git remote add origin git@github-user2:repoUrl 而不是
 git remote add origin git@github.com:repoUrl  git clone 如是  总结 这样就可以愉快的使用多账号提交代码了！</description>
