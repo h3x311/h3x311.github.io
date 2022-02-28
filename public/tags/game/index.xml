@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>game on ∞</title>
+    <link>https://h3x311.github.io/tags/game/</link>
+    <description>Recent content in game on ∞</description>
+    <image>
+      <url>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Feb 2022 12:46:36 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10h制作游戏失败</title>
+      <link>https://h3x311.github.io/posts/gameinoneday/</link>
+      <pubDate>Mon, 28 Feb 2022 12:46:36 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/gameinoneday/</guid>
+      <description> 看过一些游戏制作的书，玩过很多游戏。并不代表对游戏制作和理解游戏有多少经验。 做之前翻了youtube的&amp;quot;make game in one day&amp;quot;&amp;ldquo;unity&amp;rdquo;,reddit的gamedev，还有游戏引擎选择的讨论。 索性没看太多engine教程。直接拿最热门的unity使用。 解构游戏很简单，对于新手来说，难在使用工具。 重点是找很多simple basic的游戏来remake， 而不是你最爱玩的。 重点是了解engine的基础使用。 不要做tetris，做点平台类的横版过关就很好。 最后以刚开始分析的tetris结尾。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
