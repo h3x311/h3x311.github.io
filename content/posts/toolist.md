@@ -26,7 +26,7 @@ hotkey和cheatsheet是我比较爱折腾的俩东西。
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
 每当开始用新editor，最先找的就是cheatsheet。
 hotkey主要分布在3个地方：
-1. browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究
+1. browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO
    1. close this, before, after
    2. move this, before, after
    3. F
@@ -55,8 +55,10 @@ hotkey主要分布在3个地方：
 2. 能解决workflow的同质问题
 3. 能简约视觉效果
 4. 轻量且快速
+
 所以mac下使用量最高的是：
 alfred和popclip相同的功能在websearch。
+
 1. alfred
    1. alfred的workflow可以把websearch集合在一起。TODO
 2. popclip
