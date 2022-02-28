@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ∞</title>
-    <link>https://h3x311.github.io/posts/</link>
-    <description>Recent content in Posts on ∞</description>
+    <title>tool on ∞</title>
+    <link>https://h3x311.github.io/categories/tool/</link>
+    <description>Recent content in tool on ∞</description>
     <image>
       <url>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Feb 2022 23:51:01 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 23:51:01 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toolist</title>
       <link>https://h3x311.github.io/posts/toolist/</link>
@@ -19,16 +19,6 @@
       <description>工具分三类。一类是快捷键，一类是软件，一类是脚本。编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
 Hotkey 作为一个还算爱键盘的人。hotkey和cheatsheet是我比较爱折腾的俩东西。 过去用的比较多的是spacelaucher来启动软件和网页。屏幕管理用的是触发角。 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。 每当开始用新editor，最先找的就是cheatsheet。 hotkey主要分布在3个地方：
  browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO  close this, before, after move this, before, after F   editor(nvim vscode  vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表   terminal(cli  move word 前后 del word   software  obsidian  hotkey未设置 search panel and template 加入   logseq  估计是和vim统一     窗口管理  yabai 和 skhd(skhd config有bug，待解决TODO   系统快捷键和上方冲突  整体统一TODO    Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/ 对软件的要求是：</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://h3x311.github.io/posts/hugo/</link>
-      <pubDate>Fri, 25 Feb 2022 20:09:26 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/hugo/</guid>
-      <description>为什么用Hugo 相比hexo，hugo的功能和ui更现代化。hugo没有npm，安装很方便。 gatsby也不错。
-建站中的问题  选theme直接找推荐，不要看list，选更新最近的并且热度高的 添加disqus写的域名应该是xx.github.io del submodule的最后一步 git rm --cached theme位置  hexcell  对称 无限 来自爱玩的游戏 hexcell  写什么  技术类总结 比如搞定某个workflow, 比如搞定某个技术问题, 比如瞎写学习总结  </description>
     </item>
     
     <item>
