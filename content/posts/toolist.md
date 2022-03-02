@@ -52,6 +52,7 @@ hotkey主要分布在3个地方：
    1. yabai 和 skhd(skhd config有bug，待解决TODO
 6. 系统快捷键和上方冲突
    1. 整体统一TODO
+7. hotkey连接脚本 TODO
 
 ## Software
 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/

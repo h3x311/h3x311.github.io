@@ -30,3 +30,4 @@ categories:
 > 不要做tetris，做点平台类的横版过关就很好。
 ![8aMwuCUcTJ2qrZ6](https://s2.loli.net/2022/03/01/8aMwuCUcTJ2qrZ6.png)
 > 最后以刚开始分析的tetris结尾。
+
