@@ -81,7 +81,7 @@ cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份�
 常见的wf里用的工具link起来。但没有思路。TODO
 1. navi
    1. navi本身可以替代alias
-      1. 它可以分类。替换：分类 - 整理cheat TODO
+      1. 它可以分类。替换：分类 - 整理cheat TODO(结合fzf-- navi | fzf)
 2. 需求两个，整理文件 - 备份 - git
    1. 加需要的dotfile 
 ### cli tool 
