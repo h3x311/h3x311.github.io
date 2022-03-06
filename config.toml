@@ -122,4 +122,5 @@ weight = 20
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
+[blackfriday]
+  extensions = ["hardLineBreak"]

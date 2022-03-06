@@ -1,5 +1,11 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink "date" .Date "section" .Section) -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+[
+    {{- with $.Site.GetPage "/posts" }}
+      {{- range $index, $data := .Pages }}
+      {{- if $index }},{{ end }}
+      {
+        "title": "{{ $data.Title  }}",
+        "url": "{{ $data.RelPermalink }}"
+      }
+      {{- end }}
+    {{- end }}
+  ]

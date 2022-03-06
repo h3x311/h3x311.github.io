@@ -23,13 +23,20 @@ categories:
 - tool
 ---
 工具分三类。一类是快捷键，一类是软件，一类是脚本。<br />
+
 编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
+
 ## Hotkey
 作为一个还算爱键盘的人。<br>
+
 hotkey和cheatsheet是我比较爱折腾的俩东西。
+
 过去用的比较多的是spacelaucher来启动软件和网页。屏幕管理用的是触发角。
+
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
+
 每当开始用新editor，最先找的就是cheatsheet。
+
 hotkey主要分布在3个地方：
 1. browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO
    1. close this, before, after
@@ -56,6 +63,7 @@ hotkey主要分布在3个地方：
 
 ## Software
 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
+
 对软件的要求是：
 1. 能解决workflow的问题
 2. 能解决workflow的同质问题
@@ -77,7 +85,9 @@ alfred和popclip相同的功能在websearch。
 
 ## Script
 cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份，git推送
+
 还有什么？
+
 常见的wf里用的工具link起来。但没有思路。TODO
 1. navi
    1. navi本身可以替代alias
@@ -86,10 +96,13 @@ cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份�
    1. 加需要的dotfile 
 ### cli tool 
 主要两个，文件管理，搜索。
+
 但搜索需求还没有特别大。
 
 TODO文件内格式转换 1. vim宏 2. 写脚本程序
+
 还有很多各种类型有意思的cli工具。比如网络相关的。
+
 希望以后all in cli
 
 
