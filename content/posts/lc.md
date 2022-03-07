@@ -24,4 +24,7 @@ categories:
 Download the table, and close now.
 ![wgX6Ii_NqUgfU](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/wgX6Ii_NqUgfU.jpg)
 
+## 2nd day
+read some article of LC, have more info about blind75. 
+Think about starting tommorrow.
 
