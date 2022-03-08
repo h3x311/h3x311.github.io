@@ -28,3 +28,11 @@ Download the table, and close now.
 read some article of LC, have more info about blind75. 
 Think about starting tommorrow.
 
+## 3rd day
+Do 2 array questions, learn to use hashmap.
+
+## 4th day
+Do 2 link list questions, learn to use draw pic to code.
+
+
+
