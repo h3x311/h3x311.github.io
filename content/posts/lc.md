@@ -33,6 +33,4 @@ Do 2 array questions, learn to use hashmap.
 
 ## 4th day
 Do 2 link list questions, learn to use draw pic to code.
-
-
-
+![jzjRFy_vKLr18](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/jzjRFy_vKLr18.png)
