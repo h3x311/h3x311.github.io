@@ -26,14 +26,14 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 disableSpecial1stPost = false
 disableScrollToTop = false
 comments = true
 hidemeta = false
 hideSummary = false
 showtoc = false
-tocopen = false
+tocopen = true
 
   [params.assets]
   favicon = "./hexcell.png"
@@ -124,3 +124,4 @@ weight = 20
   home = ["HTML", "RSS", "JSON"]
 [blackfriday]
   extensions = ["hardLineBreak"]
+
