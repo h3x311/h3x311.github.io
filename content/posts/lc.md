@@ -45,3 +45,11 @@ Do 2 link list questions, learn to use draw pic to code.
 Do 2 array, all uses cache, so called dp.
 
 Find the repeat things, and store them in a cache.
+
+## 6th day
+
+Read disc, know some pattern or definition of solution, but it wastes much time. Just solve it by one way, then close it.
+
+Do medium array and link list.
+
+Working on cs61b pro0.
