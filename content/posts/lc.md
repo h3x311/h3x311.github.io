@@ -1,5 +1,4 @@
 ---
-
 title: "Lc"
 date: 2022-03-05T20:55:13+08:00
 draft: false
@@ -21,9 +20,7 @@ tags:
 - leetcode
   categories:
 - cs
-
 ---
-
 ## 1st day
 
 Download the table, and close now.
@@ -31,7 +28,7 @@ Download the table, and close now.
 
 ## 2nd day
 
-read some article of LC, have more info about blind75. 
+read some article of LC, have more info about blind75.
 Think about starting tommorrow.
 
 ## 3rd day
@@ -48,4 +45,4 @@ Do 2 link list questions, learn to use draw pic to code.
 
 Do 2 array, all uses cache, so called dp.
 
-Find the repeat things, and store them in a cache,
+Find the repeat things, and store them in a cache.
