@@ -16,9 +16,8 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 tags:
-
 - leetcode
-  categories:
+categories:
 - cs
 ---
 ## 1st day
