@@ -28,6 +28,7 @@ Download the table, and close now.
 ## 2nd day
 
 read some article of LC, have more info about blind75.
+
 Think about starting tommorrow.
 
 ## 3rd day
@@ -53,3 +54,15 @@ Read disc, know some pattern or definition of solution, but it wastes much time.
 Do medium array and link list.
 
 Working on cs61b pro0.
+
+## 7th day
+
+Learn tree and link list.
+
+## 8,10th day
+
+Break
+
+## 11th day
+Take string questions. One is hashmap compare, two is about 2 pointers.
+Pointers are common in string and array.
