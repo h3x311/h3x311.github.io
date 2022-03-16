@@ -66,3 +66,7 @@ Break
 ## 11th day
 Take string questions. One is hashmap compare, two is about 2 pointers.
 Pointers are common in string and array.
+
+## 12th day
+Do string questions. Use hashmap.
+No new things. Maybe I should do less.
