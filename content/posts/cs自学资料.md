@@ -17,7 +17,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 tags:
 - cs
-- source
 categories:
 - cs
 ---
