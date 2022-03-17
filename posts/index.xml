@@ -9,7 +9,21 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Mar 2022 20:55:13 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 16:38:39 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cs自学资料</title>
+      <link>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</link>
+      <pubDate>Thu, 17 Mar 2022 16:38:39 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</guid>
+      <description>很全面的从0到1的资源  覆盖面很广。细节很多。看完意识到自己很多都不懂。
+Newbie 指南  工具性质的导引。适合零基础小白。
+bli公开课  太全了。当作索引可以，但不会主动看。
+site all in one  list很多。但不一定好。面试的那一栏内容不错。
+blog  不知有没有喜欢看的。这种信息犹如大海捞针。
+cs自学wiki  公开课的汇总及分类。需要了解新领域时，参考下。</description>
+    </item>
+    
     <item>
       <title>Lc</title>
       <link>https://h3x311.github.io/posts/lc/</link>
