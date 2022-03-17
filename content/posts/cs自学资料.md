@@ -55,3 +55,4 @@ list很多。但不一定好。面试的那一栏内容不错。
 9. [ask](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
     
 如何提问。精简的表达需求。
+t
