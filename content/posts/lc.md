@@ -70,3 +70,4 @@ Pointers are common in string and array.
 ## 12th day
 Do string questions. Use hashmap.
 No new things. Maybe I should do less.
+ps: install timer and vscode addson. I think it's useless.
