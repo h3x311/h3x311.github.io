@@ -45,4 +45,14 @@ list很多。但不一定好。面试的那一栏内容不错。
 
 公开课的汇总及分类。需要了解新领域时，参考下。
 
+7. [original cs teach by yourself](https://teachyourselfcs.com/)
 
+比较简洁靠谱。没有繁复的。
+
+8. [reddit-wiki](https://github.com/antariksh17/Reddit-wiki-programming)
+
+视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
+
+9. [ask](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+    
+如何提问。精简的表达需求。
