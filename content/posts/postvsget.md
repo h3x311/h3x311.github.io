@@ -42,7 +42,7 @@ HTTP request
 2. 安全性更好
 
 3. update data to webserver
-4. 
+
 ![iJls55_ubLrBj](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/iJls55_ubLrBj.jpg)
 
 ![GkhfU0_s1LQvI](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/GkhfU0_s1LQvI.jpg)
