@@ -71,3 +71,14 @@ Pointers are common in string and array.
 Do string questions. Use hashmap.
 No new things. Maybe I should do less.
 ps: install timer and vscode addson. I think it's useless.
+
+## -1 day
+use bfs. And use a tool to generate anki deck for revise.
+
+## re 1st day
+Forgot to record.
+Use dfs. Graph is hard for me.
+Generate a readme.
+
+
+et
