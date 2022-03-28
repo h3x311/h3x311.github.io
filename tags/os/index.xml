@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>os on ∞</title>
+    <link>https://h3x311.github.io/tags/os/</link>
+    <description>Recent content in os on ∞</description>
+    <image>
+      <url>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Mar 2022 15:03:28 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process VS Thread</title>
+      <link>https://h3x311.github.io/posts/processvsthread/</link>
+      <pubDate>Mon, 28 Mar 2022 15:03:28 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/processvsthread/</guid>
+      <description>Defination program有很多process，pcb是个虚拟的process容器，process可以creat child process。
+process有很多thread，三个状态，running，ready，block。
+Process  An executing instance of a program is called a process.
+   Seprate Process Control Block, Stack and Address Space.
+ process之间很难相互影响    many process to one program
+  disappear after reboot
+  ps, multiprocess system can excute processes parallelly
+  Thread  A thread is a subset of the process.
+   share Data, Code, Heap, no stack</description>
+    </item>
+    
+  </channel>
+</rss>
