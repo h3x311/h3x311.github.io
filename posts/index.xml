@@ -21,7 +21,12 @@
   &amp;lsquo;GET&amp;rsquo; is limited to 2048 characters     require data from server
   POST   参数在body
   安全性更好
-  update data to webserver   </description>
+  update data to webserver
+   总结 在面试中很常见的问题，网文写的都不太全。
+so和ytb上的解释，区别是：1. 长度和参数位置不同。2. 安全性。不安全的内容用post。
+理解区别最好的方式是举例子。
+REF when-do-you-use-post-and-when-do-you-use-get
+What is the difference between POST and GET? [duplicate]</description>
     </item>
     
     <item>
