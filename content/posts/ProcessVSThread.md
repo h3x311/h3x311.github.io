@@ -27,7 +27,7 @@ categories:
 
 program有很多process，pcb是个虚拟的process容器，process可以creat child process。
 
-process有很多thread，三个状态，running，ready，block。
+process有很多thread，thread的三个状态:running，ready，block。
 ## Process
 > An executing instance of a program is called a process.
 
@@ -55,7 +55,7 @@ process有很多thread，三个状态，running，ready，block。
 
 # 总结
 
-process是独立互不影响的的，thread间是共享的code,data,files。
+process是独立互不影响的，thread间是共享的code,data,files。
 
 面试考的就是这点吧。
 
