@@ -9,7 +9,22 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Mar 2022 11:59:17 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 11:10:49 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>URL then what happened?</title>
+      <link>https://h3x311.github.io/posts/urlthen/</link>
+      <pubDate>Tue, 29 Mar 2022 11:10:49 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/urlthen/</guid>
+      <description>Make a Http Request &amp;ndash;&amp;gt; use curl client 向 server 发送request request head first line of request, Http1.1 &amp;ndash;&amp;gt; All plain text Why Http good?   client - server model
+  plain text
+  add headers value key for more extend
+  stateless for independent   可靠reliability
+  status code 206 - range of requests succeed
+rediect_3 client_4 I would never request.404
+server_5 You can request again.</description>
+    </item>
+    
     <item>
       <title>Post VS Get</title>
       <link>https://h3x311.github.io/posts/postvsget/</link>
