@@ -85,3 +85,7 @@ You can request again.500
 ![KCqDBh_h28tB5](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/KCqDBh_h28tB5.png)
 
 ![7FscJJ_G15Q7J](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/7FscJJ_G15Q7J.png)
+
+# Ref
+
+- [chrome](https://developer.chrome.com/blog/inside-browser-part2/)
