@@ -1,5 +1,5 @@
 ---
-title: "URL then what happened?"
+title: "What happens when you type a URL and press enter?"
 date: 2022-03-29T11:10:49+08:00
 draft: false
 showToc: true
