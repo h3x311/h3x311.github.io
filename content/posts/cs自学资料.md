@@ -62,4 +62,3 @@ list很多。但不一定好。面试的那一栏内容不错。
 
 ## burnout
 [how to relax](https://www.reddit.com/r/cscareerquestions/wiki/index)
-![dDuhsQ_himRkd](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/dDuhsQ_himRkd.jpg)
