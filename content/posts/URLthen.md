@@ -89,3 +89,4 @@ You can request again.500
 # Ref
 
 - [chrome](https://developer.chrome.com/blog/inside-browser-part2/)
+- [An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?" ](https://github.com/alex/what-happens-when)
