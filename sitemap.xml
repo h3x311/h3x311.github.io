@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://h3x311.github.io/</loc>
+    <lastmod>2022-03-29T11:10:49+08:00</lastmod>
+  </url><url>
     <loc>https://h3x311.github.io/categories/</loc>
     <lastmod>2022-03-29T11:10:49+08:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2022-03-29T11:10:49+08:00</lastmod>
   </url><url>
     <loc>https://h3x311.github.io/posts/urlthen/</loc>
-    <lastmod>2022-03-29T11:10:49+08:00</lastmod>
-  </url><url>
-    <loc>https://h3x311.github.io/</loc>
     <lastmod>2022-03-29T11:10:49+08:00</lastmod>
   </url><url>
     <loc>https://h3x311.github.io/tags/os/</loc>
@@ -74,10 +74,10 @@
     <loc>https://h3x311.github.io/categories/blog/</loc>
     <lastmod>2022-02-25T20:09:26+08:00</lastmod>
   </url><url>
-    <loc>https://h3x311.github.io/posts/hugo/</loc>
+    <loc>https://h3x311.github.io/tags/hugo/</loc>
     <lastmod>2022-02-25T20:09:26+08:00</lastmod>
   </url><url>
-    <loc>https://h3x311.github.io/tags/hugo/</loc>
+    <loc>https://h3x311.github.io/posts/hugo/</loc>
     <lastmod>2022-02-25T20:09:26+08:00</lastmod>
   </url><url>
     <loc>https://h3x311.github.io/tags/git/</loc>
