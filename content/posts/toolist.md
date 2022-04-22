@@ -105,7 +105,10 @@ TODO文件内格式转换 1. vim宏 2. 写脚本程序
 
 希望以后all in cli
 
+### Editor
 
+![M0WUJF_Ysrj7B](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/M0WUJF_Ysrj7B.png)
 
+![pY59cr_F9neRw](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/pY59cr_F9neRw.png)
 
 
