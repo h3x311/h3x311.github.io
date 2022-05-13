@@ -111,4 +111,5 @@ TODO文件内格式转换 1. vim宏 2. 写脚本程序
 
 ![pY59cr_F9neRw](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/pY59cr_F9neRw.png)
 
+[neovim in vscode](https://github.com/vscode-neovim/vscode-neovim)
 

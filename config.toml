@@ -1,7 +1,7 @@
 baseURL = "https://h3x311.github.io/"
 title = "∞"
 paginate = 5
-theme = "PaperMod"
+theme = "logseq-hugo-template"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
