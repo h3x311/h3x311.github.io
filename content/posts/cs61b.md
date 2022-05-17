@@ -2,6 +2,23 @@
 title: "Cs61b"
 date: 2022-05-14T21:22:33+08:00
 draft: false
+author: "sober"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: true
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+tags:
+- cs61b
+categories:
+- cs
 ---
 
 ## 1st day
