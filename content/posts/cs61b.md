@@ -1,7 +1,7 @@
 ---
 title: "Cs61b"
 date: 2022-05-14T21:22:33+08:00
-draft: true
+draft: false
 ---
 
 ## 1st day
@@ -9,6 +9,8 @@ draft: true
 看了篇[用python实现的各种基础数据结构](https://xnth97.github.io/2017/12/19/data-structure-note/)，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
 
 卡在markdown本地图片上传，本地笔记会分享上来的，未来的某一天。
+
+
 
 ## 1st
 1. 变量类型必须有，且不可改变，在运行前verify
@@ -23,21 +25,21 @@ draft: true
 	1. ![3bwDza_fRYy3a](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/3bwDza_fRYy3a.png)
 ## 3rd list
 1. link 两个list
-	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220308163147.png)
-	![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220308163156.png)
-	![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220308163606.png)
+	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220308163147.png)
+	![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220308163156.png)
+	![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220308163606.png)
 	ptr是指针
 ## 4th 
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220309233711.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220309233711.png)
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/39543393/157618060-233dc6b0-b52a-4108-b080-8ddfa6efb689.png">
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220310170855.png)
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220310172140.png)
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220310172157.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220310170855.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220310172140.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220310172157.png)
 
 # list
 1. a = b时，发生了什么？
-	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220323212551.png)
+	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220323212551.png)
 	箭头指在相同的内存空间
 ### this
 >"this" because it is a java keyword and it always refers to the current object.
@@ -53,9 +55,9 @@ draft: true
 ## lab3
 ### add libraries
 
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220406215134.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220406215134.png)
 ### how to build test
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220406221239.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220406221239.png)
 -[ juit](https://junit.org/junit4/javadoc/4.12/org/junit/Assert.html)
 - debugger --> breakpoint
 - print
@@ -69,8 +71,8 @@ draft: true
 ## 8_Inheritance, Implements
 ### overloading
 1. multiple methods with same name, different parameters
-	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220414123736.png)
-	2. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220414123932.png)
+	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220414123736.png)
+	2. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220414123932.png)
 	保持一致。当一个method内容改变，另一个也要跟着改变。
 
 
@@ -95,7 +97,7 @@ add @Override for public method of subclass
 
 
 ### Implementation Inheritance
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220414164752.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220414164752.png)
 interface inheritance, 继承signature，no implementation
 Java 继承implementation--> use default
 
@@ -106,8 +108,8 @@ Java 继承implementation--> use default
 2. 当调用overriding时，是调用overriding的method。
 #### interface vs implementation inherience
 1. 'is a', not 'has a'
-	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220414175530.png)
-2. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220414175641.png)
+	1. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220414175530.png)
+2. ![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220414175641.png)
 ## disc4
 1. super(parameters) --> subclass call superclass's constructor
 
@@ -128,21 +130,21 @@ Java 继承implementation--> use default
 ### Casting
 1. use cast to avoid the compiler-type check.
 ### High Order function
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220415190912.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220415190912.png)
 ## Subtype Polymorphism vs. HoFs
 #### polymorphism
 1. provide a single interface to entites of different type
 	1. 支持多类型的实体
 2. 比较hof 和 subtype polymorphism
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220421153224.png)
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220421221857.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220421153224.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220421221857.png)
 
 Use interface of  type for better code.
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220421225607.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220421225607.png)
 ### Libraries, Abstract Classes, Packages
 #### Abstract Data Types (ADTS)
 1. 
 
 
-![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%2520image%252020220425000937.png)
+![](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/Pasted%20image%2020220425000937.png)
 
