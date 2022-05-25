@@ -9,7 +9,16 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 19:32:00 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/cs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 21:05:22 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grindcs61b</title>
+      <link>https://h3x311.github.io/posts/grindcs61b/</link>
+      <pubDate>Wed, 25 May 2022 21:05:22 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/grindcs61b/</guid>
+      <description>1st Search some word about inherience in stackoverflow, use mdbook as notebook to track the ideas. See through proj1b part 1, I can solve the little problem 1 by 1.</description>
+    </item>
+    
     <item>
       <title>Leetcodenote</title>
       <link>https://h3x311.github.io/posts/leetcodenote/</link>
