@@ -17,14 +17,16 @@
       
       <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
       <description>14 patterns)
-  熟悉的语言 Lc like gym 除非练过 不然不要想太多  1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
+熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
 链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
-  pythonFunc)
-  python格式)
-  blind75list)
-  # Short-circuit evaluation)
-  draw pic
-  use pattern structure</description>
+pythonFunc)
+python格式)
+blind75list)
+# Short-circuit evaluation)
+draw pic
+use pattern structure
+test your knowledge
+1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
     </item>
     
     <item>

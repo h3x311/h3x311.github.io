@@ -26,14 +26,16 @@
       
       <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
       <description>14 patterns)
-  熟悉的语言 Lc like gym 除非练过 不然不要想太多  1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
+熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
 链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
-  pythonFunc)
-  python格式)
-  blind75list)
-  # Short-circuit evaluation)
-  draw pic
-  use pattern structure</description>
+pythonFunc)
+python格式)
+blind75list)
+# Short-circuit evaluation)
+draw pic
+use pattern structure
+test your knowledge
+1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
     </item>
     
     <item>
@@ -44,7 +46,10 @@
       <guid>https://h3x311.github.io/posts/cs61b/</guid>
       <description>1st day 看了篇用python实现的各种基础数据结构，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
 卡在markdown本地图片上传，本地笔记会分享上来的，未来的某一天。
-1st  变量类型必须有，且不可改变，在运行前verify     A func is called a method  define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val    2nd  没有main的method可以在有main的method里被调用      3rd list  link 两个list  ptr是指针    4th list  a = b时，发生了什么？  箭头指在相同的内存空间    this  &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.</description>
+1st 变量类型必须有，且不可改变，在运行前verify A func is called a method define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val 2nd 没有main的method可以在有main的method里被调用 3rd list link 两个list ptr是指针 4th list a = b时，发生了什么？ 箭头指在相同的内存空间 this &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.
+Sentinel Nodes 为了减少len为0的代码，加上sentinel node，就不在乎有没有node
+arraycopy 深拷贝，而不是指向同一个地址。所以拷贝之后的行为是独立于copy值的。
+lab3 add libraries how to build test - juit</description>
     </item>
     
     <item>
@@ -53,13 +58,14 @@
       <pubDate>Tue, 29 Mar 2022 11:10:49 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/urlthen/</guid>
-      <description>Make a Http Request &amp;ndash;&amp;gt; use curl client 向 server 发送request request head first line of request, Http1.1 &amp;ndash;&amp;gt; All plain text Why Http good?   client - server model
-  plain text
-  add headers value key for more extend
-  stateless for independent   可靠reliability
-  status code 206 - range of requests succeed
+      <description>Make a Http Request &amp;ndash;&amp;gt; use curl client 向 server 发送request request head first line of request, Http1.1 &amp;ndash;&amp;gt; All plain text Why Http good? client - server model
+plain text
+add headers value key for more extend
+stateless for independent 可靠reliability
+status code 206 - range of requests succeed
 rediect_3 client_4 I would never request.404
-server_5 You can request again.</description>
+server_5 You can request again.500
+headers 总结 Ref chrome An attempt to answer the age old interview question &amp;ldquo;What happens when you type google.</description>
     </item>
     
     <item>
@@ -70,13 +76,17 @@ server_5 You can request again.</description>
       <guid>https://h3x311.github.io/posts/processvsthread/</guid>
       <description>Defination program有很多process，pcb是个虚拟的process容器，process可以creat child process。
 process有很多thread，thread的三个状态:running，ready，block。
-Process  An executing instance of a program is called a process.
-   Seprate Process Control Block, Stack and Address Space.
- process之间很难相互影响    many process to one program
-  disappear after reboot
-  ps, multiprocess system can excute processes parallelly
-  Thread  A thread is a subset of the process.
-   share Data, Code, Heap, no stack</description>
+Process An executing instance of a program is called a process.
+Seprate Process Control Block, Stack and Address Space.
+process之间很难相互影响 many process to one program
+disappear after reboot
+ps, multiprocess system can excute processes parallelly
+Thread A thread is a subset of the process.
+share Data, Code, Heap, no stack
+many threads to one process share the same address space
+区别 总结 process是独立互不影响的，thread间是共享的code,data,files。
+面试考的就是这点吧。
+REF what-is-the-difference-between-a-process-and-a-thread </description>
     </item>
     
     <item>
@@ -86,12 +96,12 @@ Process  An executing instance of a program is called a process.
       
       <guid>https://h3x311.github.io/posts/postvsget/</guid>
       <description>defination HTTP request
-区别 get   参数在url(长度有限)
-  &amp;lsquo;GET&amp;rsquo; is limited to 2048 characters     require data from server
-  POST   参数在body
-  安全性更好
-  update data to webserver
-  总结 在面试中很常见的问题，网文写的都不太全。
+区别 get 参数在url(长度有限)
+&amp;lsquo;GET&amp;rsquo; is limited to 2048 characters require data from server
+POST 参数在body
+安全性更好
+update data to webserver
+总结 在面试中很常见的问题，网文写的都不太全。
 so和ytb上的解释，区别是：1. 长度和参数位置不同。2. 安全性。不安全的内容用post。
 理解区别最好的方式是举例子。
 REF when-do-you-use-post-and-when-do-you-use-get
@@ -104,16 +114,16 @@ What is the difference between POST and GET? [duplicate]</description>
       <pubDate>Thu, 17 Mar 2022 16:38:39 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</guid>
-      <description>很全面的从0到1的资源  覆盖面很广。细节很多。看完意识到自己很多都不懂。
-Newbie 指南  工具性质的导引。适合零基础小白。
-bli公开课  太全了。当作索引可以，但不会主动看。
-site all in one  list很多。但不一定好。面试的那一栏内容不错。
-blog  不知有没有喜欢看的。这种信息犹如大海捞针。
-cs自学wiki  公开课的汇总及分类。需要了解新领域时，参考下。
-original cs teach by yourself  比较简洁靠谱。没有繁复的。
-reddit-wiki  视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
-ask  如何提问。精简的表达需求。
-last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
+      <description>很全面的从0到1的资源 覆盖面很广。细节很多。看完意识到自己很多都不懂。
+Newbie 指南 工具性质的导引。适合零基础小白。
+bli公开课 太全了。当作索引可以，但不会主动看。
+site all in one list很多。但不一定好。面试的那一栏内容不错。
+blog 不知有没有喜欢看的。这种信息犹如大海捞针。
+cs自学wiki 公开课的汇总及分类。需要了解新领域时，参考下。
+original cs teach by yourself 比较简洁靠谱。没有繁复的。
+reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
+ask 如何提问。精简的表达需求。
+video last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
