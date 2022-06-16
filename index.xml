@@ -9,7 +9,21 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 19:32:00 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 21:56:36 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontend</title>
+      <link>https://h3x311.github.io/posts/frontend/</link>
+      <pubDate>Thu, 16 Jun 2022 21:56:36 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/frontend/</guid>
+      <description>route frontend的书，比如jsinfo，dom编程艺术。project，比着某个网站0-1实现。做这些事既不系统化，又难以坚持。
+学习在于把系统复杂的东西分解，一步步循序渐进。
+刚开始，面对无穷的知识，靠问题将这些串起来，是个好方法。
+frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
+core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
+network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 ref ztm</description>
+    </item>
+    
     <item>
       <title>Leetcodenote</title>
       <link>https://h3x311.github.io/posts/leetcodenote/</link>
