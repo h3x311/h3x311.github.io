@@ -39,6 +39,21 @@ frontend，无非是三件套，但如何将这三件套整合在一起？为什
   - 这个可以继续细分
 - 与后端相连的系统架构上的实践
 
+## react
+
+1. Hook
+2. Redux
+
+## Javascript
+
+1. ES6
+2. TypeScript
+
+# Learn
+
+1. 基础的定义的源头
+2. 新知识的原因
+
 
 # ref
 
