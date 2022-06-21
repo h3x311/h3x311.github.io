@@ -21,7 +21,7 @@
 刚开始，面对无穷的知识，靠问题将这些串起来，是个好方法。
 frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
 core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
-network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 ref ztm</description>
+network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 react Hook Redux Javascript ES6 TypeScript Learn 基础的定义的源头 新知识的原因 ref ztm</description>
     </item>
     
     <item>
