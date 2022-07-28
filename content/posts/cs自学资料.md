@@ -57,6 +57,8 @@ list很多。但不一定好。面试的那一栏内容不错。
 如何提问。精简的表达需求。
 
 10. [video](https://github.com/Developer-Y/cs-video-courses)
+
+11. 
 # last but important
 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 ![sXakvA_LxZuCz](https://cdn.jsdelivr.net/gh/h3x311/upic@main/uPic/2022/sXakvA_LxZuCz.png)
