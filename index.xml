@@ -9,7 +9,27 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 23:21:07 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 19:31:34 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git_CMD</title>
+      <link>https://h3x311.github.io/posts/git_his/</link>
+      <pubDate>Mon, 05 Sep 2022 19:31:34 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/git_his/</guid>
+      <description>记录2类git cmd，1是突发情况，2是可复用的。
+突发情况 回滚 reset在merge分支时，会失效。 push代码后，用revert比较好。-n 是舍弃后面SHA的commit内容
+reset revert 复用 复用上一个commit内容</description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://h3x311.github.io/posts/windows/</link>
+      <pubDate>Fri, 29 Jul 2022 00:44:08 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/windows/</guid>
+      <description> Total Commander </description>
+    </item>
+    
     <item>
       <title>Backend</title>
       <link>https://h3x311.github.io/posts/backend/</link>
@@ -21,7 +41,7 @@
 如果刚开始按照正确的方式来写API，并且以此为这个story的切入点，就容易很多。
 在不测试的情况下，瞎写一通，学到了JSON的不同格式，但也是走了不少弯路。当然也可能是对相关的知识了解太少。
 在做0了解的事情前，一定要找到问题的新的不确定的核心开始，然后再了解这个测试的方法。
-还反映出1个问题，对相关工具不熟悉，比如docker和数据库，可能半小时掌握到的知识需要花费很多不必要的时间死磕。
+还反映出1个问题，对相关工具不熟悉，比如docker和数据库, Git，可能半小时掌握到的知识需要花费很多不必要的时间死磕。
 还是得有耐心，冷静。</description>
     </item>
     
@@ -139,7 +159,7 @@ original cs teach by yourself 比较简洁靠谱。没有繁复的。
 reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
 ask 如何提问。精简的表达需求。
 video
-burnout how to relax</description>
+last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
