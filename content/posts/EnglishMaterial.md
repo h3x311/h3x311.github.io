@@ -22,3 +22,8 @@ I watch the youtube video such as friends teaching to learn the words connection
 ## news
 
 - https://www.theguardian.com/international
+
+## daily
+
+- https://www.wired.com/
+
