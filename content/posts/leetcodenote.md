@@ -1,7 +1,7 @@
 ---
 title: "Leetcodenote"
 date: 2022-05-25T19:32:00+08:00
-draft: false
+draft: true
 author: "sober"
 showToc: true
 TocOpen: false
