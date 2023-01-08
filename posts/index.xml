@@ -9,7 +9,19 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Nov 2022 16:42:19 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 01:53:37 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practicecs</title>
+      <link>https://h3x311.github.io/posts/practicecs/</link>
+      <pubDate>Mon, 09 Jan 2023 01:53:37 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/practicecs/</guid>
+      <description>列举一些在线通过练习来学习cs的网站。 将学习变成游戏，反馈比较快，适合培养兴趣。
+Codewars
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript 用它写过几个JS，答案多样化，前期熟悉语言合适 HackerRank
+https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select sql 为例子 列举一些我喜欢的dis thread，reddit/leetcode上的 https://www.reddit.com/r/cscareerquestionsEU/comments/sxcrbb/need_advice_on_getting_better_with_coding/ #leetcode 我刷lc的起点 https://github.com/seanprashad/leetcode-patterns #leetcode https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ #leetcode https://www.reddit.com/r/learnprogramming/comments/ujgblr/what_do_data_structures_and_algorithms_exactly/ #datastructure database https://cstack.github.io/db_tutorial/ tool for search https://awesomeopensource.com/ 课表 https://learncs.me/curriculum/ 61b 61c stackoverflow https://stackoverflow.com/questions/tagged/networking top qa 心态 https://www.reddit.com/r/cscareerquestions/comments/sxg63p/deleted_by_user/ https://www.reddit.com/r/cscareerquestions/comments/s188ef/how_the_fuck_are_people_able_to_solve_these/ #leetcode https://www.reddit.com/r/csMajors/comments/sxpcr9/what_do_you_guys_do_in_your_free_time_assuming/ #rest https://www.reddit.com/r/csMajors/comments/tfukk7/why_do_you_guys_keep_saying_to_grind_leetcode/ #leetcode resource https://www.reddit.com/r/cscareerquestions/comments/e4v755/master_list_of_free_resources/ 娱乐 https://www.reddit.com/r/learnprogramming/comments/u3cumh/to_be_a_top_1_programmer_in_the_world_what_do_you/ </description>
+    </item>
+    
     <item>
       <title>EnglishMaterial</title>
       <link>https://h3x311.github.io/posts/englishmaterial/</link>
@@ -18,15 +30,6 @@
       <guid>https://h3x311.github.io/posts/englishmaterial/</guid>
       <description>I think the most difficult part of English learning is the sentence connection, such as the video that uses friends to teach the common connections for words. Up and down is also an important part. And the American accent, some alphat is not the same as chinese, which I need to learn by the youtube.
 The connection is hard to visualize, when you learn new words, the count of this may make sense, but it&amp;rsquo;s hard in speaking, practice, listening, and it takes long time to show the effect.</description>
-    </item>
-    
-    <item>
-      <title>61b_track</title>
-      <link>https://h3x311.github.io/posts/61b_track/</link>
-      <pubDate>Mon, 17 Oct 2022 00:24:42 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/61b_track/</guid>
-      <description>1017 隔段时间不看，会忘记进度。 每节视频都记了相应的笔记。 4.1</description>
     </item>
     
     <item>
@@ -76,25 +79,6 @@ reset revert 复用 复用上一个commit内容</description>
 frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
 core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
 network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 react Hook Redux Javascript ES6 TypeScript Learn 基础的定义的源头 新知识的原因 ref ztm</description>
-    </item>
-    
-    <item>
-      <title>Leetcodenote</title>
-      <link>https://h3x311.github.io/posts/leetcodenote/</link>
-      <pubDate>Wed, 25 May 2022 19:32:00 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
-      <description>14 patterns)
-熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
-链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
-pythonFunc)
-python格式)
-blind75list)
-# Short-circuit evaluation)
-draw pic
-use pattern structure
-test your knowledge
-1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
     </item>
     
     <item>
@@ -187,6 +171,21 @@ last but important A Self-Learning, Modern Computer Science Curriculum burnout h
       <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/lc/</guid>
+      <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
+Think about starting tommorrow.
+3rd day Do 2 array questions, learn to use hashmap.
+4th day Do 2 link list questions, learn to use draw pic to code.
+5th day Do 2 array, all uses cache, so called dp.
+Find the repeat things, and store them in a cache.
+6th day Read disc, know some pattern or definition of solution, but it wastes much time.</description>
+    </item>
+    
+    <item>
+      <title>Lc</title>
+      <link>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</link>
+      <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</guid>
       <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
 Think about starting tommorrow.
 3rd day Do 2 array questions, learn to use hashmap.

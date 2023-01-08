@@ -25,25 +25,6 @@ network Javascrit的重点使用 这个可以继续细分 与后端相连的系�
     </item>
     
     <item>
-      <title>Leetcodenote</title>
-      <link>https://h3x311.github.io/posts/leetcodenote/</link>
-      <pubDate>Wed, 25 May 2022 19:32:00 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
-      <description>14 patterns)
-熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
-链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
-pythonFunc)
-python格式)
-blind75list)
-# Short-circuit evaluation)
-draw pic
-use pattern structure
-test your knowledge
-1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
-    </item>
-    
-    <item>
       <title>What happens when you type a URL and press enter?</title>
       <link>https://h3x311.github.io/posts/urlthen/</link>
       <pubDate>Tue, 29 Mar 2022 11:10:49 +0800</pubDate>
@@ -124,6 +105,21 @@ last but important A Self-Learning, Modern Computer Science Curriculum burnout h
       <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/lc/</guid>
+      <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
+Think about starting tommorrow.
+3rd day Do 2 array questions, learn to use hashmap.
+4th day Do 2 link list questions, learn to use draw pic to code.
+5th day Do 2 array, all uses cache, so called dp.
+Find the repeat things, and store them in a cache.
+6th day Read disc, know some pattern or definition of solution, but it wastes much time.</description>
+    </item>
+    
+    <item>
+      <title>Lc</title>
+      <link>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</link>
+      <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</guid>
       <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
 Think about starting tommorrow.
 3rd day Do 2 array questions, learn to use hashmap.
