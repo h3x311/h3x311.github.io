@@ -9,22 +9,150 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Mar 2022 16:38:39 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 01:53:37 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practicecs</title>
+      <link>https://h3x311.github.io/posts/practicecs/</link>
+      <pubDate>Mon, 09 Jan 2023 01:53:37 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/practicecs/</guid>
+      <description>列举一些在线通过练习来学习cs的网站。 将学习变成游戏，反馈比较快，适合培养兴趣。
+Codewars
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript 用它写过几个JS，答案多样化，前期熟悉语言合适 HackerRank
+https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select sql 为例子 https://github.com/nfree2bee/hackerrank/blob/master/Basic%20Select/Employee%20Names.sql Classes I want to learn https://course.fast.ai/Lessons/lesson1.html #deeplearning 列举一些我喜欢的dis thread，reddit/leetcode上的 https://www.reddit.com/r/cscareerquestionsEU/comments/sxcrbb/need_advice_on_getting_better_with_coding/ #leetcode 我刷lc的起点 https://github.com/seanprashad/leetcode-patterns #leetcode https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ #leetcode https://www.reddit.com/r/learnprogramming/comments/ujgblr/what_do_data_structures_and_algorithms_exactly/ #datastructure leetcode https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed #pattern https://github.com/fterh/leetcode-curation-topical #type https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/ #basic #classic database https://cstack.github.io/db_tutorial/ SQL https://dev.mysql.com/doc/refman/8.0/en/values.html #mysql doc https://cs186berkeley.net/ #class frontend https://course.fast.ai/Lessons/lesson1.html youtube https://www.youtube.com/user/derekbanas?app=desktop https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw #system design tool for search https://awesomeopensource.com/ 课表 https://learncs.me/curriculum/ 61b 61c stackoverflow https://stackoverflow.com/questions/tagged/networking top qa 心态 https://www.reddit.com/r/cscareerquestions/comments/sxg63p/deleted_by_user/ https://www.reddit.com/r/cscareerquestions/comments/s188ef/how_the_fuck_are_people_able_to_solve_these/ #leetcode https://www.reddit.com/r/csMajors/comments/sxpcr9/what_do_you_guys_do_in_your_free_time_assuming/ #rest https://www.reddit.com/r/csMajors/comments/tfukk7/why_do_you_guys_keep_saying_to_grind_leetcode/ #leetcode resource https://www.</description>
+    </item>
+    
+    <item>
+      <title>EnglishMaterial</title>
+      <link>https://h3x311.github.io/posts/englishmaterial/</link>
+      <pubDate>Sun, 13 Nov 2022 16:42:19 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/englishmaterial/</guid>
+      <description>I think the most difficult part of English learning is the sentence connection, such as the video that uses friends to teach the common connections for words. Up and down is also an important part. And the American accent, some alphat is not the same as chinese, which I need to learn by the youtube.
+The connection is hard to visualize, when you learn new words, the count of this may make sense, but it&amp;rsquo;s hard in speaking, practice, listening, and it takes long time to show the effect.</description>
+    </item>
+    
+    <item>
+      <title>Git_CMD</title>
+      <link>https://h3x311.github.io/posts/git_his/</link>
+      <pubDate>Mon, 05 Sep 2022 19:31:34 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/git_his/</guid>
+      <description>记录2类git cmd，1是突发情况，2是可复用的。
+突发情况 回滚 reset在merge分支时，会失效。 push代码后，用revert比较好。-n 是舍弃后面SHA的commit内容
+reset revert 复用 复用上一个commit内容</description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://h3x311.github.io/posts/windows/</link>
+      <pubDate>Fri, 29 Jul 2022 00:44:08 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/windows/</guid>
+      <description> Total Commander </description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>https://h3x311.github.io/posts/backend/</link>
+      <pubDate>Thu, 28 Jul 2022 23:21:07 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/backend/</guid>
+      <description>最近听podcast讲到，经验是解决问题的shortcuts，但有意思的点是从零经验的角度如何将问题定位。不抽象的谈，就比如说最近做的事情，首先是从第三方API拿数据来分析，再根据本有的service里的参数来判断做相应的操作。主干问题是细节类的，比如对语法和ut不熟悉。这部分花了3天就写好了，ut的关键是mock每个if else条件下的合适的参数，得以走通测试。接第三方API，刚开始没有考量过，思路是按照已有的格式写好API接口，并且学了PAW的使用，知道JSON返回的格式有两种(&amp;quot;, :)。然后写了5，6句格式转换，提交完protype后成就感爆满。
+如何调用一个API？首先看文档，header和response返回类型都是string。
+如果刚开始按照正确的方式来写API，并且以此为这个story的切入点，就容易很多。
+在不测试的情况下，瞎写一通，学到了JSON的不同格式，但也是走了不少弯路。当然也可能是对相关的知识了解太少。
+在做0了解的事情前，一定要找到问题的新的不确定的核心开始，然后再了解这个测试的方法。
+还反映出1个问题，对相关工具不熟悉，比如docker和数据库, Git，可能半小时掌握到的知识需要花费很多不必要的时间死磕。
+还是得有耐心，冷静。</description>
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>https://h3x311.github.io/posts/frontend/</link>
+      <pubDate>Thu, 16 Jun 2022 21:56:36 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/frontend/</guid>
+      <description>route frontend的书，比如jsinfo，dom编程艺术。project，比着某个网站0-1实现。做这些事既不系统化，又难以坚持。
+学习在于把系统复杂的东西分解，一步步循序渐进。
+刚开始，面对无穷的知识，靠问题将这些串起来，是个好方法。
+frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
+core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
+network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 react Hook Redux Javascript ES6 TypeScript Learn 基础的定义的源头 新知识的原因 ref ztm</description>
+    </item>
+    
+    <item>
+      <title>What happens when you type a URL and press enter?</title>
+      <link>https://h3x311.github.io/posts/urlthen/</link>
+      <pubDate>Tue, 29 Mar 2022 11:10:49 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/urlthen/</guid>
+      <description>Make a Http Request &amp;ndash;&amp;gt; use curl client 向 server 发送request request head first line of request, Http1.1 &amp;ndash;&amp;gt; All plain text Why Http good? client - server model
+plain text
+add headers value key for more extend
+stateless for independent 可靠reliability
+status code 206 - range of requests succeed
+rediect_3 client_4 I would never request.404
+server_5 You can request again.500
+headers 总结 Ref chrome An attempt to answer the age old interview question &amp;ldquo;What happens when you type google.</description>
+    </item>
+    
+    <item>
+      <title>Process VS Thread</title>
+      <link>https://h3x311.github.io/posts/processvsthread/</link>
+      <pubDate>Mon, 28 Mar 2022 15:03:28 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/processvsthread/</guid>
+      <description>Defination program有很多process，pcb是个虚拟的process容器，process可以creat child process。
+process有很多thread，thread的三个状态:running，ready，block。
+Process An executing instance of a program is called a process.
+Seprate Process Control Block, Stack and Address Space.
+process之间很难相互影响 many process to one program
+disappear after reboot
+ps, multiprocess system can excute processes parallelly
+Thread A thread is a subset of the process.
+share Data, Code, Heap, no stack
+many threads to one process share the same address space
+区别 总结 process是独立互不影响的，thread间是共享的code,data,files。
+面试考的就是这点吧。
+REF what-is-the-difference-between-a-process-and-a-thread </description>
+    </item>
+    
+    <item>
+      <title>Post VS Get</title>
+      <link>https://h3x311.github.io/posts/postvsget/</link>
+      <pubDate>Mon, 28 Mar 2022 11:59:17 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/postvsget/</guid>
+      <description>defination HTTP request
+区别 get 参数在url(长度有限)
+&amp;lsquo;GET&amp;rsquo; is limited to 2048 characters require data from server
+POST 参数在body
+安全性更好
+update data to webserver
+总结 在面试中很常见的问题，网文写的都不太全。
+so和ytb上的解释，区别是：1. 长度和参数位置不同。2. 安全性。不安全的内容用post。
+理解区别最好的方式是举例子。
+REF when-do-you-use-post-and-when-do-you-use-get
+What is the difference between POST and GET? [duplicate]</description>
+    </item>
+    
     <item>
       <title>Cs自学资料</title>
       <link>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</link>
       <pubDate>Thu, 17 Mar 2022 16:38:39 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</guid>
-      <description>很全面的从0到1的资源  覆盖面很广。细节很多。看完意识到自己很多都不懂。
-Newbie 指南  工具性质的导引。适合零基础小白。
-bli公开课  太全了。当作索引可以，但不会主动看。
-site all in one  list很多。但不一定好。面试的那一栏内容不错。
-blog  不知有没有喜欢看的。这种信息犹如大海捞针。
-cs自学wiki  公开课的汇总及分类。需要了解新领域时，参考下。
-original cs teach by yourself  比较简洁靠谱。没有繁复的。
-reddit-wiki  视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
-ask  如何提问。精简的表达需求。</description>
+      <description>很全面的从0到1的资源 覆盖面很广。细节很多。看完意识到自己很多都不懂。
+Newbie 指南 工具性质的导引。适合零基础小白。
+bli公开课 太全了。当作索引可以，但不会主动看。
+site all in one list很多。但不一定好。面试的那一栏内容不错。
+blog 不知有没有喜欢看的。这种信息犹如大海捞针。
+cs自学wiki 公开课的汇总及分类。需要了解新领域时，参考下。
+original cs teach by yourself 比较简洁靠谱。没有繁复的。
+reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
+ask 如何提问。精简的表达需求。
+video sauce teachyourselfcs classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
@@ -43,13 +171,27 @@ Find the repeat things, and store them in a cache.
     </item>
     
     <item>
+      <title>Lc</title>
+      <link>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</link>
+      <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</guid>
+      <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
+Think about starting tommorrow.
+3rd day Do 2 array questions, learn to use hashmap.
+4th day Do 2 link list questions, learn to use draw pic to code.
+5th day Do 2 array, all uses cache, so called dp.
+Find the repeat things, and store them in a cache.
+6th day Read disc, know some pattern or definition of solution, but it wastes much time.</description>
+    </item>
+    
+    <item>
       <title>10h制作游戏失败</title>
       <link>https://h3x311.github.io/posts/gameinoneday/</link>
       <pubDate>Mon, 28 Feb 2022 12:46:36 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/gameinoneday/</guid>
-      <description> 看过一些游戏制作的书，玩过很多游戏。并不代表对游戏制作和理解游戏有多少经验。 做之前翻了youtube的&amp;quot;make game in one day&amp;quot;&amp;ldquo;unity&amp;rdquo;,reddit的gamedev，还有游戏引擎选择的讨论。 索性没看太多engine教程。直接拿最热门的unity使用。 解构游戏很简单，对于新手来说，难在使用工具。 重点是找很多simple basic的游戏来remake， 而不是你最爱玩的。 重点是了解engine的基础使用。 不要做tetris，做点平台类的横版过关就很好。 最后以刚开始分析的tetris结尾。
- </description>
+      <description>看过一些游戏制作的书，玩过很多游戏。并不代表对游戏制作和理解游戏有多少经验。 做之前翻了youtube的&amp;quot;make game in one day&amp;quot;&amp;ldquo;unity&amp;rdquo;,reddit的gamedev，还有游戏引擎选择的讨论。 索性没看太多engine教程。直接拿最热门的unity使用。 解构游戏很简单，对于新手来说，难在使用工具。 重点是找很多simple basic的游戏来remake， 而不是你最爱玩的。 重点是了解engine的基础使用。 不要做tetris，做点平台类的横版过关就很好。 最后以刚开始分析的tetris结尾。</description>
     </item>
     
     <item>
@@ -58,13 +200,18 @@ Find the repeat things, and store them in a cache.
       <pubDate>Sat, 26 Feb 2022 23:51:01 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/toolist/</guid>
-      <description>工具分三类。一类是快捷键，一类是软件，一类是脚本。编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
-Hotkey 作为一个还算爱键盘的人。hotkey和cheatsheet是我比较爱折腾的俩东西。
+      <description>工具分三类。一类是快捷键，一类是软件，一类是脚本。
+编辑器不再提。emacs我不会用，vim我用的不熟，vscode反而舒服。
+Hotkey 作为一个还算爱键盘的人。
+hotkey和cheatsheet是我比较爱折腾的俩东西。
 过去用的比较多的是spacelaucher来启动软件和网页。屏幕管理用的是触发角。
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
 每当开始用新editor，最先找的就是cheatsheet。
 hotkey主要分布在3个地方：
- browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO  close this, before, after move this, before, after F   editor(nvim vscode  vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表   terminal(cli  move word 前后 del word   software  obsidian  hotkey未设置 search panel and template 加入   logseq  估计是和vim统一     窗口管理  yabai 和 skhd(skhd config有bug，待解决TODO   系统快捷键和上方冲突  整体统一TODO   hotkey连接脚本 TODO  Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/</description>
+browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO close this, before, after move this, before, after F editor(nvim vscode vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表 terminal(cli move word 前后 del word software obsidian hotkey未设置 search panel and template 加入 logseq 估计是和vim统一 窗口管理 yabai 和 skhd(skhd config有bug，待解决TODO 系统快捷键和上方冲突 整体统一TODO hotkey连接脚本 TODO Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
+对软件的要求是：
+能解决workflow的问题 能解决workflow的同质问题 能简约视觉效果 轻量且快速 所以mac下使用量最高的是： alfred和popclip相同的功能在websearch。
+alfred alfred的workflow可以把websearch集合在一起。TODO popclip popclip更加方便。多平台同时搜选中内容。 popclip+anki adds的联动可以满足查词+记录需求。 obsidian和logseq 记笔记和写东西的最佳选择 logseq写大纲 kitty Script cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份，git推送</description>
     </item>
     
     <item>
@@ -74,7 +221,7 @@ hotkey主要分布在3个地方：
       
       <guid>https://h3x311.github.io/posts/hugo/</guid>
       <description>为什么用Hugo 相比hexo，hugo的功能和ui更现代化。hugo没有npm，安装很方便。 gatsby也不错。
-建站中的问题  选theme直接找推荐，不要看list，选更新最近的并且热度高的 添加disqus写的域名应该是xx.github.io del submodule的最后一步 git rm --cached theme位置  hexcell  对称 无限 来自爱玩的游戏 hexcell  写什么  技术类总结 比如搞定某个workflow, 比如搞定某个技术问题, 比如瞎写学习总结  </description>
+建站中的问题 选theme直接找推荐，不要看list，选更新最近的并且热度高的 添加disqus写的域名应该是xx.github.io del submodule的最后一步 git rm --cached theme位置 hexcell 对称 无限 来自爱玩的游戏 hexcell 写什么 技术类总结 比如搞定某个workflow, 比如搞定某个技术问题, 比如瞎写学习总结 </description>
     </item>
     
     <item>
@@ -83,11 +230,11 @@ hotkey主要分布在3个地方：
       <pubDate>Tue, 22 Feb 2022 14:26:09 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/git/</guid>
-      <description>需求  git用户和repo分离 多ssh key登陆  Q1 git config --local user.name &amp;quot;xxx&amp;quot; git config --local user.email &amp;quot;xxx&amp;quot; 修改当前项目下的git用户前提是添加多用户ssh key到～/.ssh/config
-Q2 1. 生成key ssh-keygen -t rsa -C &amp;quot;user2@email.com&amp;quot; 名字加后缀，不要覆盖之前的key
+      <description>需求 git用户和repo分离 多ssh key登陆 Q1 git config --local user.name &amp;#34;xxx&amp;#34; git config --local user.email &amp;#34;xxx&amp;#34; 修改当前项目下的git用户 前提是添加多用户ssh key到～/.ssh/config
+Q2 1. 生成key ssh-keygen -t rsa -C &amp;#34;user2@email.com&amp;#34; 名字加后缀，不要覆盖之前的key
 2. 添加key到ssh agent中 ssh-agent bash ssh-add ~/.ssh/keyname 3. 修改ssh的config Host github-user2 HostName github.com User git Host 名称随意 当添加remote repo时，Host 替换：
 git remote add origin git@github-user2:repoUrl 而不是
-git remote add origin git@github.com:repoUrl  git clone 如是  总结 这样就可以愉快的使用多账号提交代码了！</description>
+git remote add origin git@github.com:repoUrl git clone 如是 总结 这样就可以愉快的使用多账号提交代码了！</description>
     </item>
     
     

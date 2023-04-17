@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>network on ∞</title>
+    <link>https://h3x311.github.io/tags/network/</link>
+    <description>Recent content in network on ∞</description>
+    <image>
+      <url>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Mar 2022 11:10:49 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What happens when you type a URL and press enter?</title>
+      <link>https://h3x311.github.io/posts/urlthen/</link>
+      <pubDate>Tue, 29 Mar 2022 11:10:49 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/urlthen/</guid>
+      <description>Make a Http Request &amp;ndash;&amp;gt; use curl client 向 server 发送request request head first line of request, Http1.1 &amp;ndash;&amp;gt; All plain text Why Http good? client - server model
+plain text
+add headers value key for more extend
+stateless for independent 可靠reliability
+status code 206 - range of requests succeed
+rediect_3 client_4 I would never request.404
+server_5 You can request again.500
+headers 总结 Ref chrome An attempt to answer the age old interview question &amp;ldquo;What happens when you type google.</description>
+    </item>
+    
+    <item>
+      <title>Post VS Get</title>
+      <link>https://h3x311.github.io/posts/postvsget/</link>
+      <pubDate>Mon, 28 Mar 2022 11:59:17 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/postvsget/</guid>
+      <description>defination HTTP request
+区别 get 参数在url(长度有限)
+&amp;lsquo;GET&amp;rsquo; is limited to 2048 characters require data from server
+POST 参数在body
+安全性更好
+update data to webserver
+总结 在面试中很常见的问题，网文写的都不太全。
+so和ytb上的解释，区别是：1. 长度和参数位置不同。2. 安全性。不安全的内容用post。
+理解区别最好的方式是举例子。
+REF when-do-you-use-post-and-when-do-you-use-get
+What is the difference between POST and GET? [duplicate]</description>
+    </item>
+    
+  </channel>
+</rss>
