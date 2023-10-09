@@ -4,7 +4,9 @@
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title">
-      {{ .Title }}
+      {{ range .Pages.ByLastmod }}
+{{ .Title }}
+{{ end }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
     {{- if .Description }}

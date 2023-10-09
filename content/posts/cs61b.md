@@ -1,5 +1,5 @@
 ---
-title: "Cs61b note"
+title: "61b note"
 date: 2022-05-14T21:22:33+08:00
 draft: false
 author: "sober"

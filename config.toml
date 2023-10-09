@@ -68,17 +68,6 @@ tocopen = true
   Title = "Hi there 👋"
   Content = "Know a little a lot, know a lot a little."
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -108,11 +97,7 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "posts"
-name = "posts"
-url = "/posts/"
-weight = 20
+
 
 [[menu.main]]
 identifier = "categories"
