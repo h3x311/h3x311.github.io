@@ -109,6 +109,12 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
 identifier = "categories"
 name = "categories"
 url = "/categories/"
@@ -125,6 +131,8 @@ identifier = "craftship"
 name = "craftship"
 url = "https://craftship.xyz/"
 weight = 20
+
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
