@@ -14,6 +14,7 @@ draft: false
 - HackerRank
   - https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select
     - sql 为例子
+    - https://github.com/nfree2bee/hackerrank/blob/master/Basic%20Select/Employee%20Names.sql
 
 ## Classes I want to learn
 
@@ -27,7 +28,6 @@ draft: false
 - https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/ #leetcode
 - https://www.reddit.com/r/learnprogramming/comments/ujgblr/what_do_data_structures_and_algorithms_exactly/ #datastructure
 - 
-
 
 ## leetcode
 

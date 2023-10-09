@@ -120,6 +120,12 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
+[[menu.main]]
+identifier = "craftship"
+name = "craftship"
+url = "https://craftship.xyz/"
+weight = 20
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [blackfriday]

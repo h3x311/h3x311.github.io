@@ -1,5 +1,5 @@
 ---
-title: "Lc"
+title: "Leetcode record"
 date: 2022-03-05T20:55:13+08:00
 draft: false
 showToc: true

@@ -24,9 +24,10 @@ categories:
 
 覆盖面很广。细节很多。看完意识到自己很多都不懂。
 
-2. [Newbie 指南](https://tsagaanbar.github.io/Newly-Programmer-ABC/)
 
-工具性质的导引。适合零基础小白。
+2. [teachyourselfcs](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+
+目录索引,基本把基础内容都覆盖了.
 
 3. [bli公开课](https://github.com/elder-frog/OpenCourseCatalog)
 
@@ -58,9 +59,6 @@ list很多。但不一定好。面试的那一栏内容不错。
 
 10. [video](https://github.com/Developer-Y/cs-video-courses)
 
-# sauce
-
-- [teachyourselfcs](https://teachyourselfcs.com/)
 # classes
 
 - [OSSU](https://github.com/ossu/computer-science)
