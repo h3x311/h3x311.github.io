@@ -23,8 +23,13 @@ categories:
 
 ## preface
 
-[ebook of cs61b](https://joshhug.gitbooks.io/hug61b/content/)
-[cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide)
+- [ebook of cs61b](https://joshhug.gitbooks.io/hug61b/content/)
+- [CS 61B Data Structures, Spring 2021](https://sp21.datastructur.es/)
+- [CS 61B Data Structures, Spring 2022](https://inst.eecs.berkeley.edu/~cs61b/sp22/)
+- [Cs 61B Spring 2022 Discussions](https://www.youtube.com/watch?v=gG4--V_PpEk&list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax)
+
+- [cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide)
+- [Algorithms, 4th Edition ](https://algs4.cs.princeton.edu/home/)
 ## 1st day
 
 看了篇[用python实现的各种基础数据结构](https://xnth97.github.io/2017/12/19/data-structure-note/)，写的很好，试着以后写笔记有一个goal。而不是copy feelings。

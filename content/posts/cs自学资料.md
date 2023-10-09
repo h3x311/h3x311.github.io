@@ -41,7 +41,7 @@ list很多。但不一定好。面试的那一栏内容不错。
 
 不知有没有喜欢看的。这种信息犹如大海捞针。
 
-6. [cs自学wiki](https://csdiy.wiki/)
+6. [csdiy](https://csdiy.wiki/)
 
 公开课的汇总及分类。需要了解新领域时，参考下。
 
@@ -58,6 +58,8 @@ list很多。但不一定好。面试的那一栏内容不错。
 如何提问。精简的表达需求。
 
 10. [video](https://github.com/Developer-Y/cs-video-courses)
+
+11. [hackway](https://hackway.org/docs/cs/intro)
 
 # classes
 
