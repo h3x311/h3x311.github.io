@@ -9,6 +9,7 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 16 Jun 2022 21:56:36 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/categories/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frontend</title>
@@ -22,6 +23,39 @@
 frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
 core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
 network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 react Hook Redux Javascript ES6 TypeScript Learn 基础的定义的源头 新知识的原因 ref ztm</description>
+    </item>
+    
+    <item>
+      <title>Leetcode note</title>
+      <link>https://h3x311.github.io/posts/leetcodenote/</link>
+      <pubDate>Wed, 25 May 2022 19:32:00 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
+      <description>14 patterns)
+熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
+链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
+pythonFunc)
+python格式)
+blind75list)
+# Short-circuit evaluation)
+draw pic
+use pattern structure
+test your knowledge
+1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
+    </item>
+    
+    <item>
+      <title>Cs61b note</title>
+      <link>https://h3x311.github.io/posts/cs61b/</link>
+      <pubDate>Sat, 14 May 2022 21:22:33 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/cs61b/</guid>
+      <description>preface ebook of cs61b cs61b-study-guide
+1st day 看了篇用python实现的各种基础数据结构，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
+卡在markdown本地图片上传，本地笔记会分享上来的，未来的某一天。
+1st 变量类型必须有，且不可改变，在运行前verify A func is called a method define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val 2nd 没有main的method可以在有main的method里被调用 3rd list link 两个list ptr是指针 4th list a = b时，发生了什么？ 箭头指在相同的内存空间 this &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.
+Sentinel Nodes 为了减少len为0的代码，加上sentinel node，就不在乎有没有node
+arraycopy 深拷贝，而不是指向同一个地址。所以拷贝之后的行为是独立于copy值的。</description>
     </item>
     
     <item>
@@ -87,7 +121,7 @@ What is the difference between POST and GET? [duplicate]</description>
       
       <guid>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</guid>
       <description>很全面的从0到1的资源 覆盖面很广。细节很多。看完意识到自己很多都不懂。
-Newbie 指南 工具性质的导引。适合零基础小白。
+teachyourselfcs 目录索引,基本把基础内容都覆盖了.
 bli公开课 太全了。当作索引可以，但不会主动看。
 site all in one list很多。但不一定好。面试的那一栏内容不错。
 blog 不知有没有喜欢看的。这种信息犹如大海捞针。
@@ -95,30 +129,15 @@ cs自学wiki 公开课的汇总及分类。需要了解新领域时，参考下�
 original cs teach by yourself 比较简洁靠谱。没有繁复的。
 reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
 ask 如何提问。精简的表达需求。
-video sauce teachyourselfcs classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
+video classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
-      <title>Lc</title>
+      <title>Leetcode record</title>
       <link>https://h3x311.github.io/posts/lc/</link>
       <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/lc/</guid>
-      <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
-Think about starting tommorrow.
-3rd day Do 2 array questions, learn to use hashmap.
-4th day Do 2 link list questions, learn to use draw pic to code.
-5th day Do 2 array, all uses cache, so called dp.
-Find the repeat things, and store them in a cache.
-6th day Read disc, know some pattern or definition of solution, but it wastes much time.</description>
-    </item>
-    
-    <item>
-      <title>Lc</title>
-      <link>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</link>
-      <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</guid>
       <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
 Think about starting tommorrow.
 3rd day Do 2 array questions, learn to use hashmap.

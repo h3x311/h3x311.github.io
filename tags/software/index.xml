@@ -9,6 +9,7 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 26 Feb 2022 23:51:01 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toolist</title>
@@ -24,7 +25,7 @@ hotkey和cheatsheet是我比较爱折腾的俩东西。
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
 每当开始用新editor，最先找的就是cheatsheet。
 hotkey主要分布在3个地方：
-browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO close this, before, after move this, before, after F editor(nvim vscode vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表 terminal(cli move word 前后 del word software obsidian hotkey未设置 search panel and template 加入 logseq 估计是和vim统一 窗口管理 yabai 和 skhd(skhd config有bug，待解决TODO 系统快捷键和上方冲突 整体统一TODO hotkey连接脚本 TODO Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
+browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO close this, before, after move this, before, after F editor(nvim vscode vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表 terminal(cli move word 前后 del word software obsidian hotkey未设置 search panel and template 加入 logseq 估计是和vim统一 窗口管理 yabai 和 skhd 系统快捷键和上方冲突 整体统一TODO hotkey连接脚本 TODO Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
 对软件的要求是：
 能解决workflow的问题 能解决workflow的同质问题 能简约视觉效果 轻量且快速 所以mac下使用量最高的是： alfred和popclip相同的功能在websearch。
 alfred alfred的workflow可以把websearch集合在一起。TODO popclip popclip更加方便。多平台同时搜选中内容。 popclip+anki adds的联动可以满足查词+记录需求。 obsidian和logseq 记笔记和写东西的最佳选择 logseq写大纲 kitty Script cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份，git推送</description>

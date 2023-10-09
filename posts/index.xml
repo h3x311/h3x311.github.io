@@ -9,6 +9,7 @@
       <link>https://h3x311.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 09 Jan 2023 01:53:37 +0800</lastBuildDate><atom:link href="https://h3x311.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practicecs</title>
@@ -23,7 +24,7 @@ https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select sql 
     </item>
     
     <item>
-      <title>EnglishMaterial</title>
+      <title>English learning</title>
       <link>https://h3x311.github.io/posts/englishmaterial/</link>
       <pubDate>Sun, 13 Nov 2022 16:42:19 +0800</pubDate>
       
@@ -44,30 +45,6 @@ reset revert 复用 复用上一个commit内容</description>
     </item>
     
     <item>
-      <title>Windows</title>
-      <link>https://h3x311.github.io/posts/windows/</link>
-      <pubDate>Fri, 29 Jul 2022 00:44:08 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/windows/</guid>
-      <description> Total Commander </description>
-    </item>
-    
-    <item>
-      <title>Backend</title>
-      <link>https://h3x311.github.io/posts/backend/</link>
-      <pubDate>Thu, 28 Jul 2022 23:21:07 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/backend/</guid>
-      <description>最近听podcast讲到，经验是解决问题的shortcuts，但有意思的点是从零经验的角度如何将问题定位。不抽象的谈，就比如说最近做的事情，首先是从第三方API拿数据来分析，再根据本有的service里的参数来判断做相应的操作。主干问题是细节类的，比如对语法和ut不熟悉。这部分花了3天就写好了，ut的关键是mock每个if else条件下的合适的参数，得以走通测试。接第三方API，刚开始没有考量过，思路是按照已有的格式写好API接口，并且学了PAW的使用，知道JSON返回的格式有两种(&amp;quot;, :)。然后写了5，6句格式转换，提交完protype后成就感爆满。
-如何调用一个API？首先看文档，header和response返回类型都是string。
-如果刚开始按照正确的方式来写API，并且以此为这个story的切入点，就容易很多。
-在不测试的情况下，瞎写一通，学到了JSON的不同格式，但也是走了不少弯路。当然也可能是对相关的知识了解太少。
-在做0了解的事情前，一定要找到问题的新的不确定的核心开始，然后再了解这个测试的方法。
-还反映出1个问题，对相关工具不熟悉，比如docker和数据库, Git，可能半小时掌握到的知识需要花费很多不必要的时间死磕。
-还是得有耐心，冷静。</description>
-    </item>
-    
-    <item>
       <title>Frontend</title>
       <link>https://h3x311.github.io/posts/frontend/</link>
       <pubDate>Thu, 16 Jun 2022 21:56:36 +0800</pubDate>
@@ -79,6 +56,39 @@ reset revert 复用 复用上一个commit内容</description>
 frontend，无非是三件套，但如何将这三件套整合在一起？为什么有框架？它方便了什么？如何和后端如何交互(如何调用API请求data，请求时候的async)？基础的网络知识，现代frontend的常用技术栈。框架的模块化。如何打包一个app。这些都是很有意思的问题。
 core problem 核心问题和核心知识是相关联的，frontend知识分为三类。
 network Javascrit的重点使用 这个可以继续细分 与后端相连的系统架构上的实践 react Hook Redux Javascript ES6 TypeScript Learn 基础的定义的源头 新知识的原因 ref ztm</description>
+    </item>
+    
+    <item>
+      <title>Leetcode note</title>
+      <link>https://h3x311.github.io/posts/leetcodenote/</link>
+      <pubDate>Wed, 25 May 2022 19:32:00 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/leetcodenote/</guid>
+      <description>14 patterns)
+熟悉的语言 Lc like gym 除非练过 不然不要想太多 1.Binary Search 2. DFS, BFS，Best FS 3. Iteration /recursion 4. LinkedList 4. 5. Graph/tree 6. Queue/Stack/Heap 5. 7.DP 6. 7. 9.Bit 7. 9. 11. Sorting 13. Trie etc. 8. 10.Sliding window 12. Multiple pointers 8. Array/String 9. Set/HashMap
+链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个Tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考论坛或者博客。
+pythonFunc)
+python格式)
+blind75list)
+# Short-circuit evaluation)
+draw pic
+use pattern structure
+test your knowledge
+1_twosum hash table key - val key - unique 多对一的关系。 2_maxprofig 用双指针，而不是嵌套循环 3_duplicate py3func) set()的使用 add() 4_mergelist 5_reverselink 6_maxsubarray 用一个变量作为暂存值。</description>
+    </item>
+    
+    <item>
+      <title>Cs61b note</title>
+      <link>https://h3x311.github.io/posts/cs61b/</link>
+      <pubDate>Sat, 14 May 2022 21:22:33 +0800</pubDate>
+      
+      <guid>https://h3x311.github.io/posts/cs61b/</guid>
+      <description>preface ebook of cs61b cs61b-study-guide
+1st day 看了篇用python实现的各种基础数据结构，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
+卡在markdown本地图片上传，本地笔记会分享上来的，未来的某一天。
+1st 变量类型必须有，且不可改变，在运行前verify A func is called a method define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val 2nd 没有main的method可以在有main的method里被调用 3rd list link 两个list ptr是指针 4th list a = b时，发生了什么？ 箭头指在相同的内存空间 this &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.
+Sentinel Nodes 为了减少len为0的代码，加上sentinel node，就不在乎有没有node
+arraycopy 深拷贝，而不是指向同一个地址。所以拷贝之后的行为是独立于copy值的。</description>
     </item>
     
     <item>
@@ -144,7 +154,7 @@ What is the difference between POST and GET? [duplicate]</description>
       
       <guid>https://h3x311.github.io/posts/cs%E8%87%AA%E5%AD%A6%E8%B5%84%E6%96%99/</guid>
       <description>很全面的从0到1的资源 覆盖面很广。细节很多。看完意识到自己很多都不懂。
-Newbie 指南 工具性质的导引。适合零基础小白。
+teachyourselfcs 目录索引,基本把基础内容都覆盖了.
 bli公开课 太全了。当作索引可以，但不会主动看。
 site all in one list很多。但不一定好。面试的那一栏内容不错。
 blog 不知有没有喜欢看的。这种信息犹如大海捞针。
@@ -152,30 +162,15 @@ cs自学wiki 公开课的汇总及分类。需要了解新领域时，参考下�
 original cs teach by yourself 比较简洁靠谱。没有繁复的。
 reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
 ask 如何提问。精简的表达需求。
-video sauce teachyourselfcs classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
+video classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
-      <title>Lc</title>
+      <title>Leetcode record</title>
       <link>https://h3x311.github.io/posts/lc/</link>
       <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/lc/</guid>
-      <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
-Think about starting tommorrow.
-3rd day Do 2 array questions, learn to use hashmap.
-4th day Do 2 link list questions, learn to use draw pic to code.
-5th day Do 2 array, all uses cache, so called dp.
-Find the repeat things, and store them in a cache.
-6th day Read disc, know some pattern or definition of solution, but it wastes much time.</description>
-    </item>
-    
-    <item>
-      <title>Lc</title>
-      <link>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</link>
-      <pubDate>Sat, 05 Mar 2022 20:55:13 +0800</pubDate>
-      
-      <guid>https://h3x311.github.io/posts/logseq/bak/lc/2022-12-06t03_41_38.078z.desktop/</guid>
       <description>1st day Download the table, and close now. 2nd day read some article of LC, have more info about blind75.
 Think about starting tommorrow.
 3rd day Do 2 array questions, learn to use hashmap.
@@ -208,7 +203,7 @@ hotkey和cheatsheet是我比较爱折腾的俩东西。
 为什么转移平铺？减少了切换和关闭的工作，连接了窗口管理和软件，消灭了冲突。
 每当开始用新editor，最先找的就是cheatsheet。
 hotkey主要分布在3个地方：
-browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO close this, before, after move this, before, after F editor(nvim vscode vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表 terminal(cli move word 前后 del word software obsidian hotkey未设置 search panel and template 加入 logseq 估计是和vim统一 窗口管理 yabai 和 skhd(skhd config有bug，待解决TODO 系统快捷键和上方冲突 整体统一TODO hotkey连接脚本 TODO Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
+browser(我用surfing key的原因是类vim，Tridacity功能更多，等无聊再研究TODO close this, before, after move this, before, after F editor(nvim vscode vim宏代替vscode快捷键 撤销 TODO vim键该列一张自己的扩展表 terminal(cli move word 前后 del word software obsidian hotkey未设置 search panel and template 加入 logseq 估计是和vim统一 窗口管理 yabai 和 skhd 系统快捷键和上方冲突 整体统一TODO hotkey连接脚本 TODO Software 作为一个对新软件忍不住找来安装体验的人，试过很多，坚持下来的不过5个。:/
 对软件的要求是：
 能解决workflow的问题 能解决workflow的同质问题 能简约视觉效果 轻量且快速 所以mac下使用量最高的是： alfred和popclip相同的功能在websearch。
 alfred alfred的workflow可以把websearch集合在一起。TODO popclip popclip更加方便。多平台同时搜选中内容。 popclip+anki adds的联动可以满足查词+记录需求。 obsidian和logseq 记笔记和写东西的最佳选择 logseq写大纲 kitty Script cli 下的脚本主要出发点是整理文件，工作流继续扩展，备份，git推送</description>
