@@ -69,12 +69,14 @@ test your knowledge
       <pubDate>Sat, 14 May 2022 21:22:33 +0800</pubDate>
       
       <guid>https://h3x311.github.io/posts/cs61b/</guid>
-      <description>preface ebook of cs61b cs61b-study-guide
-1st day 看了篇用python实现的各种基础数据结构，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
+      <description>preface ebook of cs61b
+CS 61B Data Structures, Spring 2021
+CS 61B Data Structures, Spring 2022
+Cs 61B Spring 2022 Discussions
+cs61b-study-guide
+Algorithms, 4th Edition 1st day 看了篇用python实现的各种基础数据结构，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
 卡在markdown本地图片上传，本地笔记会分享上来的，未来的某一天。
-1st 变量类型必须有，且不可改变，在运行前verify A func is called a method define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val 2nd 没有main的method可以在有main的method里被调用 3rd list link 两个list ptr是指针 4th list a = b时，发生了什么？ 箭头指在相同的内存空间 this &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.
-Sentinel Nodes 为了减少len为0的代码，加上sentinel node，就不在乎有没有node
-arraycopy 深拷贝，而不是指向同一个地址。所以拷贝之后的行为是独立于copy值的。</description>
+1st 变量类型必须有，且不可改变，在运行前verify A func is called a method define func &amp;ndash;&amp;gt; public staic func&amp;rsquo;s parameters and return value must declared type Only one return val 2nd 没有main的method可以在有main的method里被调用 3rd list link 两个list ptr是指针 4th list a = b时，发生了什么？ 箭头指在相同的内存空间 this &amp;ldquo;this&amp;rdquo; because it is a java keyword and it always refers to the current object.</description>
     </item>
     
     <item>
@@ -144,11 +146,13 @@ teachyourselfcs 目录索引,基本把基础内容都覆盖了.
 bli公开课 太全了。当作索引可以，但不会主动看。
 site all in one list很多。但不一定好。面试的那一栏内容不错。
 blog 不知有没有喜欢看的。这种信息犹如大海捞针。
-cs自学wiki 公开课的汇总及分类。需要了解新领域时，参考下。
+csdiy 公开课的汇总及分类。需要了解新领域时，参考下。
 original cs teach by yourself 比较简洁靠谱。没有繁复的。
 reddit-wiki 视频比较多，比较实用。闲着无聊可以点点开，说不定会找到好的。
 ask 如何提问。精简的表达需求。
-video classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
+video
+hackway
+classes OSSU OSC last but important A Self-Learning, Modern Computer Science Curriculum burnout how to relax</description>
     </item>
     
     <item>
