@@ -21,6 +21,10 @@ categories:
 - cs
 ---
 
+## preface
+
+[ebook of cs61b](https://joshhug.gitbooks.io/hug61b/content/)
+[cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide)
 ## 1st day
 
 看了篇[用python实现的各种基础数据结构](https://xnth97.github.io/2017/12/19/data-structure-note/)，写的很好，试着以后写笔记有一个goal。而不是copy feelings。
